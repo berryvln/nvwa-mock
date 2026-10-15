@@ -1,0 +1,21 @@
+{
+  "erkenningsnummer": "DE 08 426 9901 21",
+  "sleutel": "DE08426990121",
+  "land": "DE",
+  "naam": "Allgäu Tierfett Verwertung GmbH",
+  "adres": {
+    "straat": "Gewerbestraße 9",
+    "postcode": "88400",
+    "plaats": "Biberach an der Riß",
+    "land": "DE"
+  },
+  "sectie": "PROC",
+  "activiteit": "Verwerkingsbedrijf",
+  "categorieen": [
+    "2"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
