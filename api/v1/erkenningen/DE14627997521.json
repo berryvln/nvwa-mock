@@ -1,0 +1,23 @@
+{
+  "erkenningsnummer": "DE 14 627 9975 21",
+  "sleutel": "DE14627997521",
+  "land": "DE",
+  "naam": "Elbtal Verbrennung GmbH",
+  "adres": {
+    "straat": "Kraftwerkstraße 1",
+    "postcode": "01662",
+    "plaats": "Meißen",
+    "land": "DE"
+  },
+  "sectie": "INCIN",
+  "activiteit": "Verbrandingsinstallatie",
+  "categorieen": [
+    "1",
+    "2",
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
