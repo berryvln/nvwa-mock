@@ -1,0 +1,22 @@
+{
+  "erkenningsnummer": "NL 990162",
+  "sleutel": "NL990162",
+  "land": "NL",
+  "naam": "Zuiderveld Destructie B.V.",
+  "adres": {
+    "straat": "Biestraat 40",
+    "postcode": "5531 RK",
+    "plaats": "Bladel",
+    "land": "NL"
+  },
+  "sectie": "IV",
+  "activiteit": "Verwerkingsbedrijf",
+  "categorieen": [
+    "1",
+    "2"
+  ],
+  "status": "Erkend",
+  "bron": "NL-lijst erkende inrichtingen DBP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
