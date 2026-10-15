@@ -1,0 +1,21 @@
+{
+  "erkenningsnummer": "DE 03 241 9902 21",
+  "sleutel": "DE03241990221",
+  "land": "DE",
+  "naam": "Weserbergland Fettschmelze GmbH",
+  "adres": {
+    "straat": "Hafenstraße 18",
+    "postcode": "31785",
+    "plaats": "Hameln",
+    "land": "DE"
+  },
+  "sectie": "PROC",
+  "activiteit": "Verwerkingsbedrijf",
+  "categorieen": [
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
