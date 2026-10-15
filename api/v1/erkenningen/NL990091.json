@@ -1,0 +1,22 @@
+{
+  "erkenningsnummer": "NL 990091",
+  "sleutel": "NL990091",
+  "land": "NL",
+  "naam": "Groene Polder Vergisting B.V.",
+  "adres": {
+    "straat": "Vogelweg 3",
+    "postcode": "8251 PJ",
+    "plaats": "Dronten",
+    "land": "NL"
+  },
+  "sectie": "VIII",
+  "activiteit": "Biogasinstallatie",
+  "categorieen": [
+    "2",
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "NL-lijst erkende inrichtingen DBP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
