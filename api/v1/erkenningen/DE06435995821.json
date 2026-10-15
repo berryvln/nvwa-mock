@@ -1,0 +1,22 @@
+{
+  "erkenningsnummer": "DE 06 435 9958 21",
+  "sleutel": "DE06435995821",
+  "land": "DE",
+  "naam": "Wetterau Tierkörperbeseitigung GmbH",
+  "adres": {
+    "straat": "Am Feldrain 7",
+    "postcode": "61169",
+    "plaats": "Friedberg",
+    "land": "DE"
+  },
+  "sectie": "PROC",
+  "activiteit": "Verwerkingsbedrijf",
+  "categorieen": [
+    "1",
+    "2"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
