@@ -1,0 +1,23 @@
+{
+  "erkenningsnummer": "NL 990512",
+  "sleutel": "NL990512",
+  "land": "NL",
+  "naam": "Westhaven Verbranding B.V.",
+  "adres": {
+    "straat": "Kabelweg 101",
+    "postcode": "1014 BB",
+    "plaats": "Amsterdam",
+    "land": "NL"
+  },
+  "sectie": "V",
+  "activiteit": "Verbrandingsinstallatie",
+  "categorieen": [
+    "1",
+    "2",
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "NL-lijst erkende inrichtingen DBP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
