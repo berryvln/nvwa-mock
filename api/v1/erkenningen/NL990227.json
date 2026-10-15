@@ -1,0 +1,22 @@
+{
+  "erkenningsnummer": "NL 990227",
+  "sleutel": "NL990227",
+  "land": "NL",
+  "naam": "Kempen Biofuels B.V.",
+  "adres": {
+    "straat": "Ekkersrijt 4410",
+    "postcode": "5692 DA",
+    "plaats": "Son en Breugel",
+    "land": "NL"
+  },
+  "sectie": "VII",
+  "activiteit": "Oleochemisch bedrijf",
+  "categorieen": [
+    "2",
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "NL-lijst erkende inrichtingen DBP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
