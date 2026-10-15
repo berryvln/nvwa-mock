@@ -1,0 +1,21 @@
+{
+  "erkenningsnummer": "NL 990153",
+  "sleutel": "NL990153",
+  "land": "NL",
+  "naam": "Maasdal Vetverwerking B.V.",
+  "adres": {
+    "straat": "Waalbandijk 22",
+    "postcode": "6627 KB",
+    "plaats": "Maasbommel",
+    "land": "NL"
+  },
+  "sectie": "IV",
+  "activiteit": "Verwerkingsbedrijf",
+  "categorieen": [
+    "2"
+  ],
+  "status": "Erkend",
+  "bron": "NL-lijst erkende inrichtingen DBP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
