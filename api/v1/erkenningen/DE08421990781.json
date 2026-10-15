@@ -1,0 +1,22 @@
+{
+  "erkenningsnummer": "DE 08 421 9907 81",
+  "sleutel": "DE08421990781",
+  "land": "DE",
+  "naam": "Riedle Spedition GmbH",
+  "adres": {
+    "straat": "Donautalstraße 30",
+    "postcode": "89079",
+    "plaats": "Ulm",
+    "land": "DE"
+  },
+  "sectie": "TRANS",
+  "activiteit": "Transport (geregistreerd)",
+  "categorieen": [
+    "2",
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
