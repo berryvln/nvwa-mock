@@ -1,0 +1,21 @@
+{
+  "erkenningsnummer": "DE 07 338 9987 21",
+  "sleutel": "DE07338998721",
+  "land": "DE",
+  "naam": "Pfalz Kompost GmbH",
+  "adres": {
+    "straat": "Weinstraße 300",
+    "postcode": "67434",
+    "plaats": "Neustadt an der Weinstraße",
+    "land": "DE"
+  },
+  "sectie": "COMP",
+  "activiteit": "Composteerinstallatie",
+  "categorieen": [
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
