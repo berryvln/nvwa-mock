@@ -1,0 +1,22 @@
+{
+  "erkenningsnummer": "NL 990410",
+  "sleutel": "NL990410",
+  "land": "NL",
+  "naam": "Benelux Bijproducten Handel B.V.",
+  "adres": {
+    "straat": "Waalhaven 55",
+    "postcode": "3089 KH",
+    "plaats": "Rotterdam",
+    "land": "NL"
+  },
+  "sectie": "XIII",
+  "activiteit": "Handelaar",
+  "categorieen": [
+    "2",
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "NL-lijst erkende inrichtingen DBP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
