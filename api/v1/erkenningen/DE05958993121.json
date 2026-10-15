@@ -1,0 +1,22 @@
+{
+  "erkenningsnummer": "DE 05 958 9931 21",
+  "sleutel": "DE05958993121",
+  "land": "DE",
+  "naam": "Ruhrtal Oleochemie AG",
+  "adres": {
+    "straat": "Industriepark 4",
+    "postcode": "58099",
+    "plaats": "Hagen",
+    "land": "DE"
+  },
+  "sectie": "OLEO",
+  "activiteit": "Oleochemisch bedrijf",
+  "categorieen": [
+    "2",
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
