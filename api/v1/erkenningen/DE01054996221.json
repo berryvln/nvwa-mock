@@ -1,0 +1,21 @@
+{
+  "erkenningsnummer": "DE 01 054 9962 21",
+  "sleutel": "DE01054996221",
+  "land": "DE",
+  "naam": "Nordfriesland Heimtierfutter GmbH",
+  "adres": {
+    "straat": "Deichstraße 21",
+    "postcode": "25813",
+    "plaats": "Husum",
+    "land": "DE"
+  },
+  "sectie": "PETF",
+  "activiteit": "Diervoederbedrijf gezelschapsdieren",
+  "categorieen": [
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
