@@ -1,0 +1,21 @@
+{
+  "erkenningsnummer": "NL 990014",
+  "sleutel": "NL990014",
+  "land": "NL",
+  "naam": "Veenhorst Vetrecycling B.V.",
+  "adres": {
+    "straat": "Kanaalweg Oost 18",
+    "postcode": "7881 PK",
+    "plaats": "Emmer-Compascuum",
+    "land": "NL"
+  },
+  "sectie": "IV",
+  "activiteit": "Verwerkingsbedrijf",
+  "categorieen": [
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "NL-lijst erkende inrichtingen DBP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
