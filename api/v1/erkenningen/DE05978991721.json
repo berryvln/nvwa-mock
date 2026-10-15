@@ -1,0 +1,21 @@
+{
+  "erkenningsnummer": "DE 05 978 9917 21",
+  "sleutel": "DE05978991721",
+  "land": "DE",
+  "naam": "Lippe Energie Verwertung GmbH",
+  "adres": {
+    "straat": "Am Stadthafen 3",
+    "postcode": "44536",
+    "plaats": "Lünen",
+    "land": "DE"
+  },
+  "sectie": "BIOG",
+  "activiteit": "Biogasinstallatie",
+  "categorieen": [
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
