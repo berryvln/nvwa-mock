@@ -1,0 +1,22 @@
+{
+  "erkenningsnummer": "DE 09 187 9944 21",
+  "sleutel": "DE09187994421",
+  "land": "DE",
+  "naam": "Inntal Biogas GmbH & Co. KG",
+  "adres": {
+    "straat": "Moosweg 2",
+    "postcode": "83022",
+    "plaats": "Rosenheim",
+    "land": "DE"
+  },
+  "sectie": "BIOG",
+  "activiteit": "Biogasinstallatie",
+  "categorieen": [
+    "2",
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "DE Liste zugelassener Betriebe TNP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
