@@ -1,0 +1,21 @@
+{
+  "erkenningsnummer": "NL 990088",
+  "sleutel": "NL990088",
+  "land": "NL",
+  "naam": "Waddenkust Bio-Energie B.V.",
+  "adres": {
+    "straat": "Zeedijk 7",
+    "postcode": "9979 XP",
+    "plaats": "Eemshaven",
+    "land": "NL"
+  },
+  "sectie": "VIII",
+  "activiteit": "Biogasinstallatie",
+  "categorieen": [
+    "3"
+  ],
+  "status": "Erkend",
+  "bron": "NL-lijst erkende inrichtingen DBP",
+  "bijgewerkt": "2026-10-01",
+  "fictief": true
+}
